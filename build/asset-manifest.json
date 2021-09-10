@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34d8c15a.chunk.css",
+    "main.js": "/static/js/main.90a93558.chunk.js",
+    "main.js.map": "/static/js/main.90a93558.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1bcb2720.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1bcb2720.js.map",
+    "static/css/2.462f50b3.chunk.css": "/static/css/2.462f50b3.chunk.css",
+    "static/js/2.3e97985d.chunk.js": "/static/js/2.3e97985d.chunk.js",
+    "static/js/2.3e97985d.chunk.js.map": "/static/js/2.3e97985d.chunk.js.map",
+    "static/js/3.364dd74a.chunk.js": "/static/js/3.364dd74a.chunk.js",
+    "static/js/3.364dd74a.chunk.js.map": "/static/js/3.364dd74a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.462f50b3.chunk.css.map": "/static/css/2.462f50b3.chunk.css.map",
+    "static/css/main.34d8c15a.chunk.css.map": "/static/css/main.34d8c15a.chunk.css.map",
+    "static/js/2.3e97985d.chunk.js.LICENSE.txt": "/static/js/2.3e97985d.chunk.js.LICENSE.txt",
+    "static/media/bn_bookstore_logo.e704677f.png": "/static/media/bn_bookstore_logo.e704677f.png",
+    "static/media/primeicons.css": "/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bcb2720.js",
+    "static/css/2.462f50b3.chunk.css",
+    "static/js/2.3e97985d.chunk.js",
+    "static/css/main.34d8c15a.chunk.css",
+    "static/js/main.90a93558.chunk.js"
+  ]
+}
